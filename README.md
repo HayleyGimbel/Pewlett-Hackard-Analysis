@@ -1,1 +1,17 @@
 # Pewlett-Hackard-Analysis
+
+# Overview:
+The purpose of this analysis is to help the executives at Pewlett Hackard determine the best coarse of action for the large group of baby-boomers who are scheduled to retire in the near future.  My analysis outlines how many employees will be retiring soon, and breaks that number down by department.  This will allow the department heads to determine which positions they need to start recruiting for. 
+# Results: 
+- The most important point to note is that the Senior Engineers and Senior Staff Member departments will see the most upcoming retirees, meaning Pewlett Hackard will need to consider two scenarios.  They could either hire from outside the company, meaning they would need to start recruiting highly skilled candidates. The other option is to promote employees from within.  In this circumstance they would need to fill vacancies in lower level positions. Likely a combination of both methods will be necessary.
+- Another important point is that very few Managers will be retiring.  This means that Pewlett-Hackard can depend on these seasoned employees to assist with the transition as they train such a large influx of new employees.  It also means there will be some consistency within departments.
+- The Mentorship Eligibility table illustrated that only approximately 2% of potential retirees will be eligible for the new mentor program, in which retirees move back to a part-time position in able to provide expertise to new hires.  With these numbers, this program will not likely provide significant support for Pewlett Hackard as they fill newly vacant positions.
+- A large number of Senior Engineers are eligible for the mentor program, meaning that the Senior Engineer department would likely see the most benefit from the mentor program.  Because there is also the largest number of employees retiring in that department, Pewlett Hackard should consider focusing the resources of the mentorship program here. 
+# Summary:
+- How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+  - Approximately 90,000 rolls will need to be filled over the course of the "silver tsunami".  These rolls are concentrated in the Senior Engineer and Senior Staff departments.  
+- Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+  - With just under 2000 employees that qualify for the mentorship program, there is not a sufficient number of retirement-ready employees to mentor the next generatioin of Pewlett Hackard employees. 
+- What additional information would be useful in this analysis?
+  - Additional analysis of the employees eligible for the mentorship program would be useful.  I would create a query to determine the number of elible employees in each department.  This would allow us to more accurately judge the effectiveness of the mentorship program.  If a large number of those eligible employees were centralized in the Senior Engineering department, that would be more effective than if they were concentrated in the Management department.
+  - Another useful metric would be to analyze the length of employement for the employees eligible for the mentorship program.  Employees who have been with the company for a long time would likely be more driven to stay and mentor the next generation of employees.  Eligible mentors that were only with the company briefly may not have developed the loyalty required to stick around post-retirement. 
